@@ -1,4 +1,4 @@
-# Pipelining
+# Computer Architecture
 Computer Architecture and Design
 
 Consists of projects done during school year from the beginning to the end.
@@ -11,4 +11,4 @@ Constraint files are used to detail the connections of the Nexys4 DDR to the Sou
 
 Simulation files are used to detail the test conditions using Vivado.
 
-NOT ALL PROJECTS ARE INCLUDED
+# NOT ALL PROJECTS ARE INCLUDED
